@@ -12,3 +12,7 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: wex
+navigation:
+  - url: 'http://www.wexink.com/'
+    name: about
+    type: external
