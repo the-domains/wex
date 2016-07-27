@@ -1,0 +1,14 @@
+layout_spectrum: 0.033406571950763464
+typography_spectrum: 0.2984219512436539
+color:
+  brandStrength: 0.4521523292642087
+  lightness: 0.3184231985360384
+  saturation: 0.24439745326526463
+  rhythmicContrast: 0.3449359554797411
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: wex
